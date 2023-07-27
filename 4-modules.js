@@ -1,0 +1,5 @@
+const names=require('./2-names')
+const func=require('./3-func')
+console.log(names)
+func(names.ajay)
+func(names.ravi)
